@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <resources>
-	<product id="304DB75F196000185001C1B0">Чай чёрный</product>
-	<product id="304DB75F196000186001C1B1">Чай зелёный</product>
-	<product id="304DB75F196000187001C1B2">Чай белый</product>
-	<product id="304DB75F196000188001C1B3">Яйцо куриное</product>
-	<product id="304DB75F196000189001C1B4">Товары промышленные</product>
-	<product id="304DB75F196000190001C1B5">Химия бытовая</product>
-	<product id="304DB75F196000185001C1B6">Кофе молотый</product>
-	<product id="304DB75F196000186001C1B7">Кофе зерновой</product>
-	<product id="304DB75F196000187001C1B8">Продукция рыбная</product>
-	<product id="304DB75F196000188001C1B9">Товары замороженные</product>
-	<product id="304DB75F196000189001C1C0">Вода минеральная</product>
-	<product id="304DB75F196000190001C1C1">Питание детское</product>
+	<product id="304DB75F196000181001C1B0">Чай чёрный</product>
+	<product id="304DB75F196000182001C1B1">Чай зелёный</product>
+	<product id="304DB75F196000183001C1B2">Чай белый</product>
+	<product id="304DB75F196000184001C1B3">Яйцо куриное</product>
+	<product id="304DB75F196000185001C1B4">Товары промышленные</product>
+	<product id="304DB75F196000186001C1B5">Химия бытовая</product>
+	<product id="304DB75F196000187001C1B6">Кофе молотый</product>
+	<product id="304DB75F196000188001C1B7">Кофе зерновой</product>
+	<product id="304DB75F196000189001C1B8">Продукция рыбная</product>
+	<product id="304DB75F196000190001C1B9">Товары замороженные</product>
+	<product id="304DB75F196000191001C1C0">Вода минеральная</product>
+	<product id="304DB75F196000192001C1C1">Питание детское</product>
 </resources>  
